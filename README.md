@@ -1,27 +1,27 @@
 
-**#Mobile Sales Performance & Analytics Dashboard**
+<h1>#Mobile Sales Performance & Analytics Dashboard</h1>
 
 
 🔹**Short Description**
-A Power BI dashboard designed to analyze and visualize mobile sales performance across different regions, products, and customer segments. The project provides decision-makers with key insights into sales trends, profitability, and growth opportunities.
+* A Power BI dashboard designed to analyze and visualize mobile sales performance across different regions, products, and customer segments. The project provides decision-makers with key insights into sales trends, profitability, and growth opportunities.
 
 🔹 **Tech Stack**
-Power BI Desktop – Data modeling, transformation, and visualization
-DAX (Data Analysis Expressions) – Calculated columns and measures
-Power Query – Data cleaning and ETL
-Excel/CSV as raw data source
+* Power BI Desktop – Data modeling, transformation, and visualization
+* DAX (Data Analysis Expressions) – Calculated columns and measures
+* Power Query – Data cleaning and ETL
+* Excel/CSV as raw data source
 
 🔹 **Data Source**
-More info on where the data comes from and how it's structured
+More info on where the data comes from and how it's structured-
 Data source : Kaggle
 
 🔹 **Features & Highlights**
-i)    Sales Overview: Total revenue, profit margin, and sales volume
- ii)  Regional Analysis: Sales performance across multiple geographies
- iii) Product Insights: Top-performing mobile models and brands
- iv)  Customer Segments: Buying behavior by age group, category, or region
- v)   Time Trends: Monthly/quarterly/yearly sales comparison
- vi)  Interactive Filters & Drill-downs: Dynamic insights with slicers
+*  Sales Overview: Total revenue, profit margin, and sales volume
+*  Regional Analysis: Sales performance across multiple geographies
+*  Product Insights: Top-performing mobile models and brands
+*  Customer Segments: Buying behavior by age group, category, or region
+*  Time Trends: Monthly/quarterly/yearly sales comparison
+*  Interactive Filters & Drill-downs: Dynamic insights with slicers
 
 🔹 **Key Questions Answered**
 
@@ -37,15 +37,15 @@ i)    Sales Overview: Total revenue, profit margin, and sales volume
 
 🔹 **Business Impact & Insights**
 
-📊 Enabled stakeholders to identify high-performing regions and products
+* Enabled stakeholders to identify high-performing regions and products
 
-💰 Supported data-driven sales strategies and pricing decisions
+* Supported data-driven sales strategies and pricing decisions
 
-🎯 Improved focus on customer segments with highest ROI
+* Improved focus on customer segments with highest ROI
 
-📉 Helped identify underperforming products/regions to optimize resources
+* Helped identify underperforming products/regions to optimize resources
 
-🚀 Strengthened overall business intelligence and decision-making process
+* Strengthened overall business intelligence and decision-making process
 
 🔹 **Example**
 Show what the dashboard looks like - 
