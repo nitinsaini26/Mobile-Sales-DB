@@ -1,5 +1,6 @@
-#Project Title
-**Mobile Sales Performance & Analytics Dashboard***
+
+**Mobile Sales Performance & Analytics Dashboard**
+
 
 🔹**Short Description**
 A Power BI dashboard designed to analyze and visualize mobile sales performance across different regions, products, and customer segments. The project provides decision-makers with key insights into sales trends, profitability, and growth opportunities.
@@ -48,3 +49,4 @@ i)    Sales Overview: Total revenue, profit margin, and sales volume
 
 🔹 **Example**
 Show what the dashboard looks like - 
+Example : https://github.com/nitinsaini26/Mobile-Sales-DB/blob/main/Mobile_Sales_dashboard.png
